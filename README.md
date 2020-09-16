@@ -1,6 +1,9 @@
 # WT_Settings
 GUI for Windows Terminal Settings using PyQt.
 
+![Image of wt_settings]
+(https://github.com/xwoot/wt_settings/images/wt_settings.png)
+
 # Installation
 
 1. Installer Python 3.X et Windows Terminal
