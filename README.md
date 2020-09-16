@@ -1,7 +1,7 @@
 # WT_Settings
 GUI for Windows Terminal Settings using PyQt.
 
-![Image of wt_settings](https://github.com/xwoot/wt_settings/images/wt_settings.png)
+![Image of wt_settings](https://github.com/xwoot/wt_settings/blob/master/images/wt_settings.png)
 
 # Installation
 
