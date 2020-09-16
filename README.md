@@ -1,5 +1,5 @@
 # WT_Settings
-GUI for Windows Terminal Settings
+GUI for Windows Terminal Settings using PyQt.
 
 # Installation
 
